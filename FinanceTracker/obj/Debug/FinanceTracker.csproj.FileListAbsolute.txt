@@ -1,0 +1,35 @@
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\bin\Debug\FinanceTracker.exe.config
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\bin\Debug\FinanceTracker.exe
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\bin\Debug\FinanceTracker.pdb
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Properties.Resources.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.csproj.GenerateResource.cache
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.exe
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.pdb
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Nominal.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Efectiva.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Login.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Menu.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Registro.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.FacturaEfectiva.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.FacturaNominal.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.ReciboEfectiva.resources
+C:\Users\Steve\Desktop\Ciclo 6\Finanzas\Tf\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.RecibosNonimal.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\bin\Debug\FinanceTracker.exe.config
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\bin\Debug\FinanceTracker.exe
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\bin\Debug\FinanceTracker.pdb
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.csprojAssemblyReference.cache
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Efectiva.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.FacturaEfectiva.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.FacturaNominal.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Login.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Menu.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Nominal.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Properties.Resources.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.ReciboEfectiva.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.RecibosNonimal.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.Registro.resources
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.csproj.GenerateResource.cache
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.exe
+C:\Users\Luis Guardales\Desktop\Ciclo (RAGNAROK)\FinanceTracker\FinanceTracker\obj\Debug\FinanceTracker.pdb
